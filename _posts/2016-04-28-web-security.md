@@ -13,19 +13,27 @@ organiser: "Sistem informasi"
 
 
 ---
+**Cara mudah mengedit lagu menggunakan AudaCity**
 
-Visi.
+- Hal pertama yang dilaukan yaitu membuka aplikasi audacity, kemudian klik “file” 	pilih open lagu yang ingin kita edit
 
-Terwujudnya Prodi  sistem Informasi sebagai prodi yang menyelenggarakan pendidikan integrasi ilmu sistem informasi dan Islam, penelitian, dan pengabdian kepada masyarakat, yang berkualitas pada tahun 2018.
+<img src="/img/1.jpg" ></img>
 
-Misi.
+- Setelah pilih lagu yang kita ingin kan maka cukup ctrl C dan kemudian cntrl E maka hasil akan muncul seperti dibawah ini
 
-- Menyelenggarakan pendidikan dan pengajaran berkualitas yang mengintegrasikan antara ilmu sistem informasi dan Islam.
-- Menyelenggarakan penelitian yang berkualitas di bidang Sistem Informasi, yang mampu mendukung pada kegiatan pelayanan kepada masyarakat yang berkualitas.
-- Menyelenggarakan pengabdian dan pelayanan kepada masyarakat yang berkualitas, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan keislaman.
+<img src="/img/2.jpg" ></img>
 
-Tujuan.
+- Setelah kita memotong lagu maka pilih yang kita inginkan seperti slow masuk lagu dan keluar nya klik effect kemudian pilih fade in atau fade out
 
-- Menghasilkan lulusan Sistem Informasi yang berkualitas dengan disertai keimanan Islam yang kuat.
-- Menghasilkan penelitian Sistem Informasi berkualitas yang mampu mendukung pada kegiatan pelayanan  kepada masyarakat yang berkualitas.
-- Terwujudnya kegiatan pengabdian kepada masyarakat yang berkualitas, melalui penerapan pengetahuan dan hasil penelitian Sistem Informasi dan Islam, sehingga mampu memberikan pendampingan kepada masyarakat, terutama pada penyelesaian permasalahan keislaman.
+<img src="/img/3.jpg" ></img>
+
+- Selanjutnya kita ingin mengubah tone suara seperti laki-laki kita ubah menjadi suara perempuan maka klik.... Disesuaikan dengan apa yang kita ingin kan
+
+- Ketika semua selesai maka kita tinggal save sesuuai keinginanan kita
+
+<img src="img/4.jpg" ></img>
+
+- Ketika selesai di save maka lagu yang kita edit siap didengarkan dengan santai
+
+<img src="img/5.jpg" ></img>
+- Selamat mencoba!!!!!!
