@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "tentang Penulis"
+title:  "Biodata Group"
 cover: "/img/foto2.jpg"
 date:   2016-05-05
 start_time: "12:00"
