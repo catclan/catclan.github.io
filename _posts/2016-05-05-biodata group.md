@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "tentang Penulis"
 cover: "/img/foto2.jpg"
-date:   2016-01-05
+date:   2016-05-05
 start_time: "12:00"
 end_time: "13:00"
 
