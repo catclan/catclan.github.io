@@ -14,8 +14,6 @@ organiser: "Ibnuyohanzah ahmad"
 
 
 ---
-**Kelompok Aplikasi Mobile**
-
 
 - Nama		:Ibnu Yohanzah Ahmad
 TTL		    : Langsa, 09 April 1995
