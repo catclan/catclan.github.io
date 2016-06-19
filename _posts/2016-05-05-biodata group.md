@@ -15,6 +15,8 @@ organiser: "Ibnuyohanzah ahmad"
 
 ---
 **Kelompok Aplikasi Mobile**
+
+
 - Nama		:Ibnu Yohanzah Ahmad
 TTL		    : Langsa, 09 April 1995
 Alamat		: Perum. Genting II No A 11
