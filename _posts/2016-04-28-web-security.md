@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Sistem Informasi UIN Suska"
+title:  "cara Edit Audio"
 cover: "https://theaudacitytopodcast.com/wp-content/uploads/sites/6/2013/02/Audacity-image-600x337.jpg"
 date:   2016-04-03
 start_time: "10:00"
@@ -13,7 +13,7 @@ organiser: "Sistem informasi"
 
 
 ---
-**Cara mudah mengedit lagu menggunakan AudaCity**
+**Cara mudah mengedit Audio menggunakan AudaCity**
 
 - Hal pertama yang dilaukan yaitu membuka aplikasi audacity, kemudian klik “file” 	pilih open lagu yang ingin kita edit
 
