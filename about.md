@@ -4,6 +4,7 @@ navigation_title: Tentang Uin Suska
 title: Tentang Uin Suska
 permalink: /about/
 ---
+kami yang seluruhnya mahasiswa UIN Suska Riau memperkenalkan :
 
 [Uin Suska](http://uin-suska.ac.id/) Universitas Islam Negeri (UIN) Sultan Syarif Kasim Riau telah mengembangkan berbagai program studi yang mendukung penyeleng-garaan program pendidikan tinggi dengan membuka fakultas, jurusan, dan program studi baru di samping fakultas-fakultas yang sudah ada sebelumnya..
 
