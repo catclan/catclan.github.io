@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Sistem Informasi UIN Suska"
-cover: "http://1.bp.blogspot.com/_1yfv9dkfCik/TSxUA_6Hz3I/AAAAAAAAAe8/DMND0cmjnYs/s1600/LOGOHIMASI.JPG"
+cover: "https://theaudacitytopodcast.com/wp-content/uploads/sites/6/2013/02/Audacity-image-600x337.jpg"
 date:   2016-04-03
 start_time: "10:00"
 end_time: "17:00"
@@ -36,4 +36,5 @@ organiser: "Sistem informasi"
 - Ketika selesai di save maka lagu yang kita edit siap didengarkan dengan santai
 
 <img src="img/5.jpg" ></img>
+
 - Selamat mencoba!!!!!!
