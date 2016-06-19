@@ -7,10 +7,14 @@ button: true
 
 ---
 
-Adding an event to your site is easy. 
+# KELOMPOK APLIKASI MOBILE
 
-# Ibnuyohanzah Ahmad.
-# Pita Irul Sayekti
-# Sadra Wilis
-# Fairuzi
-# Yunaldi Rizki
+**Ibnuyohanzah Ahmad.**
+
+**Pita Irul Sayekti**
+
+**Sadra Wilis**
+
+**Fairuzi**
+
+**Yunaldi Rizki**
