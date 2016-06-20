@@ -16,8 +16,11 @@ organiser: "Ibnuyohanzah ahmad"
 ---
 
 - Nama		:Ibnu Yohanzah Ahmad
+
 TTL		    : Langsa, 09 April 1995
+
 Alamat		: Perum. Genting II No A 11
+
 E-mail		: ibnuyohanzahahmad@gmail.com
 
 - Nama		: Pita Irul Sayekti
